@@ -20,7 +20,7 @@ Explore our data registry: <https://dateno.io/registry>
 
 ## Contributing
 
-We welcome contributions to improve Dateno. If you have suggestions or encounter issues, please contact us at <dateno@dateno.io> or join our [Discord community](https://discord.gg/X4f238ge). Or [create an issue](https://github.com/commondataio/dateno-public/issues/new/choose) here.
+We welcome contributions to improve Dateno. If you have suggestions or encounter issues, please contact us at <dateno@dateno.io> or join our [Discord community](https://discord.gg/X4f238ge). Or [create an issue](https://github.com/datenoio/dateno-public/issues/new/choose) here.
 
 ## About Us
 
