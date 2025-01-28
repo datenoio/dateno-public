@@ -1,6 +1,6 @@
 # 🚀 Welcome to the Dateno API platform
 
-Ready to supercharge your project? Say hello to **Dateno API**, the easiest and most powerful way to [describe your API’s purpose briefly—e.g., "analyze data," "fetch real-time weather," etc.]. With just a few lines of code, you’ll unlock endless possibilities.
+Ready to supercharge your project? Say hello to **Dateno API**, the easiest and most powerful way to search datasets using structured filters. With just a few lines of code, you’ll unlock endless possibilities.
 
 ## 🗝️ Step 1: Sign Up and Get Your API Key  
 
