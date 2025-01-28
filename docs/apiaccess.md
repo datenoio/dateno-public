@@ -9,7 +9,8 @@ Signing up takes less than a minute. Your API key is your golden ticket to acces
 👉 **[Sign up now to get your key](https://my.dateno.io/)**  
 
 Once you’re in, you’ll find your API key on your dashboard. Here’s what it looks like:  
-<img width="847" alt="API Key Example" src="https://github.com/user-attachments/assets/98d904e6-a4af-4ca0-bff4-e78453844cf5" />
+
+![API Key Example](https://github.com/user-attachments/assets/98d904e6-a4af-4ca0-bff4-e78453844cf5)
 
 (*Tip*: Keep your API key safe—treat it like a password!)  
 
