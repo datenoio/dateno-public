@@ -10,7 +10,7 @@ Signing up takes less than a minute. Your API key is your golden ticket to acces
 
 Once you’re in, you’ll find your API key on your dashboard. Here’s what it looks like:  
 
-![API Key Example](https://github.com/user-attachments/assets/98d904e6-a4af-4ca0-bff4-e78453844cf5)
+![API Key Example](https://github.com/user-attachments/assets/bf7e94b4-bbcc-447c-98cc-1e5eac11ac2f)
 
 (*Tip*: Keep your API key safe—treat it like a password!)  
 
