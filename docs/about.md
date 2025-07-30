@@ -28,7 +28,7 @@ We use common APIs and export formats like DCAT, CKAN API, CSW, WFS, WMS, and Ar
 
 ## Who We Are
 
-Dateno is developed by APICrafter Development Ltd., based in Yerevan, Armenia, in collaboration with Open Data Armenia. Our team has been dedicated to open data for over a decade, and we're passionate about creating tools that make data more accessible and useful for everyone.
+Our team has been dedicated to open data for over a decade, and we're passionate about creating tools that make data more accessible and useful for everyone.
 
 ## Get Involved
 
