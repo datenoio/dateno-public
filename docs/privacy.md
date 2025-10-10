@@ -156,15 +156,15 @@ Please note, however, that We may need to retain certain information when we hav
 
 ### Disclosure of Your Personal Data
 
-#### Business Transactions
+**Business Transactions**
 
 If the Company is involved in a merger, acquisition or asset sale, Your Personal Data may be transferred. We will provide notice before Your Personal Data is transferred and becomes subject to a different Privacy Policy.
 
-#### Law enforcement
+**Law enforcement**
 
 Under certain circumstances, the Company may be required to disclose Your Personal Data if required to do so by law or in response to valid requests by public authorities (e.g. a court or a government agency).
 
-#### Other legal requirements
+**Other legal requirements**
 
 The Company may disclose Your Personal Data in the good faith belief that such action is necessary to:
 
@@ -174,15 +174,15 @@ The Company may disclose Your Personal Data in the good faith belief that such a
 * Protect the personal safety of Users of the Service or the public
 * Protect against legal liability
 
-### Security of Your Personal Data
+**Security of Your Personal Data**
 
 The security of Your Personal Data is important to Us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While We strive to use commercially acceptable means to protect Your Personal Data, We cannot guarantee its absolute security.
 
-## Children's Privacy
+**Children's Privacy**
 
 Our Service does not address anyone under the age of 18. We do not knowingly collect personally identifiable information from anyone under the age of 18, as use of the Service is limited to those who are 18 or older according to Our Terms and Conditions. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 18 without appropriate consent, We take steps to remove that information from Our servers.
 
-## Links to Other Websites
+**Links to Other Websites**
 
 Our Service may contain links to other websites that are not operated by Us. If You click on a third party link, You will be directed to that third party's site. We strongly advise You to review the Privacy Policy of every site You visit.
 
