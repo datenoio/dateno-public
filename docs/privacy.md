@@ -1,10 +1,10 @@
 # Privacy Policy
 
-Last updated: March 12, 2024
+Last updated: October 1, 2025
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
-We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy. This Privacy Policy has been created with the help of the [Privacy Policy Generator](https://www.termsfeed.com/privacy-policy-generator/).
+We use Your Personal data to provide and improve the Service. By using the Service, You agree to the collection and use of information in accordance with this Privacy Policy.
 
 ## Interpretation and Definitions
 
@@ -20,17 +20,17 @@ For the purposes of this Privacy Policy:
 
 * **Affiliate** means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to APICrafter LLC, Yerevan, Armenia.
+* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Dateno Ltd, Cyprus.
 
 * **Cookies** are small files that are placed on Your computer, mobile device or any other device by a website, containing the details of Your browsing history on that website among its many uses.
 
-* **Country** refers to: Armenia
+* **Country** refers to: Cyprus.
 
 * **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
 * **Personal Data** is any information that relates to an identified or identifiable individual.
 
-* **Service** refers to the Website.
+* **Service** refers to the dataset search and data API service provided by the Company through the Website, which includes a freely accessible dataset search feature and a paid subscription for API access.
 
 * **Service Provider** means any natural or legal person who processes the data on behalf of the Company. It refers to third-party companies or individuals employed by the Company to facilitate the Service, to provide the Service on behalf of the Company, to perform services related to the Service or to assist the Company in analyzing how the Service is used.
 
@@ -49,8 +49,10 @@ For the purposes of this Privacy Policy:
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
 * Email address
-
 * Usage Data
+* Name (first and last)
+* Billing address
+* Payment information (such as credit card details, processed by a third-party payment provider)
 
 #### Usage Data
 
@@ -109,6 +111,8 @@ The Company may use Personal Data for the following purposes:
 
 * **For the performance of a contract:** the development, compliance and undertaking of the purchase contract for the products, items or services You have purchased or of any other contract with Us through the Service.
 
+* **To process payments and manage subscriptions:** To manage payments, fees, and charges and to administer Your subscription to the API service.
+
 * **To contact You:** To contact You by email, telephone calls, SMS, or other equivalent forms of electronic communication, such as a mobile application's push notifications regarding updates or informative communications related to the functionalities, products or contracted services, including the security updates, when necessary or reasonable for their implementation.
 
 * **To provide You** with news, special offers and general information about other goods, services and events which we offer that are similar to those that you have already purchased or enquired about unless You have opted not to receive such information.
@@ -123,9 +127,7 @@ We may share Your personal information in the following situations:
 
 * **With Service Providers:** We may share Your personal information with Service Providers to monitor and analyze the use of our Service, to contact You.
 * **For business transfers:** We may share or transfer Your personal information in connection with, or during negotiations of, any merger, sale of Company assets, financing, or acquisition of all or a portion of Our business to another company.
-* **With Affiliates:** We may share Your information with Our affiliates, in which case we will require those affiliates to honor this Privacy Policy. Affiliates include Our parent company and any other subsidiaries, joint venture partners or other companies that We control or that are under common control with Us.
-* **With business partners:** We may share Your information with Our business partners to offer You certain products, services or promotions.
-* **With other users:** when You share personal information or otherwise interact in the public areas with other users, such information may be viewed by all users and may be publicly distributed outside.
+* **With Payment Processors:** We may share Your Personal Data with payment processing service providers to process and fulfill the payment obligations related to Your API subscription and to prevent, detect, and investigate potentially fraudulent transactions..
 * **With Your consent**: We may disclose Your personal information for any other purpose with Your consent.
 
 ### Retention of Your Personal Data
@@ -178,9 +180,7 @@ The security of Your Personal Data is important to Us, but remember that no meth
 
 ## Children's Privacy
 
-Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from anyone under the age of 13. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 13 without verification of parental consent, We take steps to remove that information from Our servers.
-
-If We need to rely on consent as a legal basis for processing Your information and Your country requires consent from a parent, We may require Your parent's consent before We collect and use that information.
+Our Service does not address anyone under the age of 18. We do not knowingly collect personally identifiable information from anyone under the age of 18, as use of the Service is limited to those who are 18 or older according to Our Terms and Conditions. If You are a parent or guardian and You are aware that Your child has provided Us with Personal Data, please contact Us. If We become aware that We have collected Personal Data from anyone under the age of 18 without appropriate consent, We take steps to remove that information from Our servers.
 
 ## Links to Other Websites
 
