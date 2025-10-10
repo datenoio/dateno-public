@@ -1,6 +1,6 @@
 # Terms and Conditions
 
-Last updated: March 12, 2024
+Last updated: October 1, 2025
 
 Please read these terms and conditions carefully before using Our Service.
 
@@ -18,11 +18,11 @@ For the purposes of these Terms and Conditions:
 
 * **Country** refers to: Armenia
 
-* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Dateno LLC, Yerevan, Armenia.
+* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Dateno LLC, Cyprus.
 
 * **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
-* **Service** refers to the Website.
+* **Service** refers to the dataset search and data API service provided by the Company through the Website, which includes a freely accessible dataset search feature and a paid subscription for API access.
 
 * **Terms and Conditions** (also referred as "Terms") mean these Terms and Conditions that form the entire agreement between You and the Company regarding the use of the Service. This Terms and Conditions agreement has been created with the help of the [Terms and Conditions Generator](https://www.termsfeed.com/terms-conditions-generator/).
 
@@ -40,6 +40,8 @@ Your access to and use of the Service is conditioned on Your acceptance of and c
 
 By accessing or using the Service You agree to be bound by these Terms and Conditions. If You disagree with any part of these Terms and Conditions then You may not access the Service.
 
+Access to the data API component of the Service requires a valid, paid subscription. All terms, including those related to payment and termination, apply fully to Your use of the API.
+
 You represent that you are over the age of 18. The Company does not permit those under 18 to use the Service.
 
 Your access to and use of the Service is also conditioned on Your acceptance of and compliance with the Privacy Policy of the Company. Our Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your personal information when You use the Application or the Website and tells You about Your privacy rights and how the law protects You. Please read Our Privacy Policy carefully before using Our Service.
@@ -51,6 +53,32 @@ Our Service may contain links to third-party web sites or services that are not 
 The Company has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party web sites or services. You further acknowledge and agree that the Company shall not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by or in connection with the use of or reliance on any such content, goods or services available on or through any such web sites or services.
 
 We strongly advise You to read the terms and conditions and privacy policies of any third-party web sites or services that You visit.
+
+## Subscriptions and Billing
+
+### Subscription
+
+The Service, or certain parts of the Service, are available only with a paid subscription (the "Subscription"). You will be billed in advance on a recurring and periodic basis (such as monthly or annually), depending on the type of Subscription plan You select when purchasing the Subscription.
+
+### Subscription Auto-Renewal
+
+At the end of each period, Your Subscription will automatically renew under the exact same conditions unless You cancel it or the Company cancels it.
+
+### Subscription Cancellation
+
+You may cancel Your Subscription renewal by contacting the Company through the Service or using the account management tools provided on the Website. Upon cancellation, your Subscription will remain active until the end of Your current billing period (e.g., month or year), and no further charges will be made.
+
+### Billing and Payment
+
+You shall provide the Company with accurate and complete billing information including full name, street address, state, zip code, telephone number, and valid payment method information.
+
+Should automatic billing fail to occur for any reason, the Company will issue an electronic invoice indicating that You must proceed manually, within a certain deadline date, with the full payment corresponding to the billing period as indicated on the invoice.
+
+### Fee Changes
+The Company, in its sole discretion and at any time, may modify the Subscription fees. Any Subscription fee change will become effective at the end of the then-current Subscription period. We will provide You with reasonable prior notice of any change in Subscription fees to give You an opportunity to terminate Your Subscription before such change becomes effective. Your continued use of the Service after the Subscription fee change comes into effect constitutes Your agreement to pay the modified Subscription fee amount.
+
+### Refunds
+Except when required by law, all paid Subscription fees are non-refundable. In the event of cancellation, the Company will not refund any portion of the Subscription fee paid for the current active billing period (whether monthly or annual). You will continue to have access to the Subscription services until the end of that current period, and all future recurring charges will be stopped.
 
 ## Termination
 
@@ -70,7 +98,7 @@ Some states do not allow the exclusion of implied warranties or limitation of li
 
 The Service is provided to You "AS IS" and "AS AVAILABLE" and with all faults and defects without warranty of any kind. To the maximum extent permitted under applicable law, the Company, on its own behalf and on behalf of its Affiliates and its and their respective licensors and service providers, expressly disclaims all warranties, whether express, implied, statutory or otherwise, with respect to the Service, including all implied warranties of merchantability, fitness for a particular purpose, title and non-infringement, and warranties that may arise out of course of dealing, course of performance, usage or trade practice. Without limitation to the foregoing, the Company provides no warranty or undertaking, and makes no representation of any kind that the Service will meet Your requirements, achieve any intended results, be compatible or work with any other software, applications, systems or services, operate without interruption, meet any performance or reliability standards or be error free or that any errors or defects can or will be corrected.
 
-Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, reliability, or currency of any information or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.
+Without limiting the foregoing, neither the Company nor any of the company's provider makes any representation or warranty of any kind, express or implied: (i) as to the operation or availability of the Service, or the information, content, and materials or products included thereon; (ii) that the Service will be uninterrupted or error-free; (iii) as to the accuracy, completeness, reliability, or currency of any information, datasets, or content provided through the Service; or (iv) that the Service, its servers, the content, or e-mails sent from or on behalf of the Company are free of viruses, scripts, trojan horses, worms, malware, timebombs or other harmful components.  
 
 Some jurisdictions do not allow the exclusion of certain types of warranties or limitations on applicable statutory rights of a consumer, so some or all of the above exclusions and limitations may not apply to You. But in such a case the exclusions and limitations set forth in this section shall be applied to the greatest extent enforceable under applicable law.
 
