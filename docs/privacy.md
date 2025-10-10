@@ -44,7 +44,7 @@ For the purposes of this Privacy Policy:
 
 ### Types of Data Collected
 
-#### Personal Data
+**Personal Data**
 
 While using Our Service, We may ask You to provide Us with certain personally identifiable information that can be used to contact or identify You. Personally identifiable information may include, but is not limited to:
 
@@ -54,7 +54,7 @@ While using Our Service, We may ask You to provide Us with certain personally id
 * Billing address
 * Payment information (such as credit card details, processed by a third-party payment provider)
 
-#### Usage Data
+**Usage Data**
 
 Usage Data is collected automatically when using the Service.
 
@@ -64,7 +64,7 @@ When You access the Service by or through a mobile device, We may collect certai
 
 We may also collect information that Your browser sends whenever You visit our Service or when You access the Service by or through a mobile device.
 
-#### Tracking Technologies and Cookies
+**Tracking Technologies and Cookies**
 
 We use Cookies and similar tracking technologies to track the activity on Our Service and store certain information. Tracking technologies used are beacons, tags, and scripts to collect and track information and to improve and analyze Our Service. The technologies We use may include:
 
@@ -138,7 +138,7 @@ The Company will also retain Usage Data for internal analysis purposes. Usage Da
 
 ### Transfer of Your Personal Data
 
-Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to � and maintained on � computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
+Your information, including Personal Data, is processed at the Company's operating offices and in any other places where the parties involved in the processing are located. It means that this information may be transferred to and maintained on computers located outside of Your state, province, country or other governmental jurisdiction where the data protection laws may differ than those from Your jurisdiction.
 
 Your consent to this Privacy Policy followed by Your submission of such information represents Your agreement to that transfer.
 
