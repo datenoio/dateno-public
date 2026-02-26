@@ -100,7 +100,7 @@ Please share your feedback with us at <dateno@dateno.io> or join our Discord com
 
 ### Who is behind Dateno?
 
-Dateno is developed by APICrafter Development Ltd., based in Yerevan, Armenia, in collaboration with Open Data Armenia. Our team has been dedicated to open data for over a decade.
+Dateno is developed by Dateno Ltd., Cyprus. Our team has been dedicated to open data for over a decade.
 
 ## Additional Resources
 
