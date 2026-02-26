@@ -24,7 +24,7 @@ We welcome contributions to improve Dateno. If you have suggestions or encounter
 
 ## About Us
 
-Dateno is developed by APICrafter Development Ltd. and Open Data Armenia. Our team has been dedicated to open data for over a decade, aiming to create a project that helps everyone searching for open data worldwide.
+Dateno is developed by Dateno Ltd., Cyprus. Our team has been dedicated to open data for over a decade, aiming to create a project that helps everyone searching for open data worldwide.
 
 ## License
 
