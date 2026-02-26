@@ -18,7 +18,7 @@ For the purposes of these Terms and Conditions:
 
 * **Country** refers to: Cyprus
 
-* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Dateno LLC, Cyprus.
+* **Company** (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Dateno Ltd., Cyprus.
 
 * **Device** means any device that can access the Service such as a computer, a cellphone or a digital tablet.
 
